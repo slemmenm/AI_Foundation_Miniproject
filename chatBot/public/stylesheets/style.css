@@ -1,0 +1,42 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+hr {
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  border-radius: 1em;
+  background-color: lightgray;
+}
+.reset {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+.chatbox-question {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+
+}
+.chatbox-answer {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+}
+.chat {
+  border-radius: 1em;
+  padding: 0.5em;
+}
+.question {
+  background-color: lightgoldenrodyellow;
+}
+.ansqwer {
+  background-color: lightskyblue;
+}

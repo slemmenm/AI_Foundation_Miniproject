@@ -1,0 +1,36 @@
+<h1>{{title}}</h1>
+<p>Start chatting with the bot by asking something</p>
+<p>Don't forget to hit enter to submit question!</p>
+
+<hr>
+<div class="reset">
+    <form class="reset" action="/resetContext" method="get">
+        <input type="submit" value="reset context">
+    </form>
+</div>
+
+{{#if chat.length}}
+    {{#each chat}}
+        {{#if @first}}
+            <div class="chatbox-answer">
+                <p class="chat ansqwer">{{this.answer}}</p>
+            </div>
+        {{else}}
+            <div class="chatbox-question">
+                <p class="chat question">{{this.question}}</p>
+            </div>
+            <div class="chatbox-answer">
+                <p class="chat ansqwer">{{this.answer}}</p>
+            </div>
+        {{/if}}
+    {{/each}}
+{{else}}
+    <p>emtpy chat list</p>
+{{/if}}
+
+<div class="container">
+    <form  class="container" action="/answer" method="post">
+            <input class="container" type="text" id="question" name="question">
+    </form>
+</div>
+<hr>
