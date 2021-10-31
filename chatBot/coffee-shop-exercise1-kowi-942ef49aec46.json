@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coffee-shop-exercise1-kowi",
+  "private_key_id": "942ef49aec460a64813156e77082eb78c5304802",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCe1BMAer30qghP\nApk+5oRT59By4my0v6zDkJQGQJqjBeiR8M8E+m8z9C42rSkPHZkKTvzzqFkzRR14\nCEDI3ifWLYP32NAdZ+EsATADVs8CH1Pw/sMSkxka5QKBP1ZYO6OYn0njsBSxI1VA\nFeRjgiGdQliaggzwCmuSM0giNuADXNdGH7BDFp6KxCDnKrEMt2XXKTabIynzMZVN\nxBFJbH+b2ZGfj1qe29YTufFeklsVHnTWnrjF1tbKaZ/S5PPfpHul8u/rUY6t1FOK\nEtmOIXAXOiS+L7xdsWDico08QT73mei9C2X+XmgDIPcnu3H84FRCKv2Blfn97FcV\ny4re32dJAgMBAAECggEACv27k+aqkw4aNZeFMdpjcWgDH5QmOCrkgoMUj0s0uE/e\nHI1Y0iwfem2tLgj1JK/kaZd2P0lY5OilRatyikP/Zz2umn31RvermC872ptNB4VR\n+oUyzCwESn1rGzUeHUyBQXxScXB7uhdrHJx3OeClQVv4RDb4PLtH3u3wEbgQ8AKG\nbVK/ltug6jjQ7GzbBjQHuIxnFH8FVPqye3f36HOf+wZiXs9R30/vZvSH8UcVfvDq\nlzoi5hVzzyrRrZJfKsZeMCE/KSFdjJmeBQKc2/gP5sx7enyrz8N+pfoKFzK58gWj\nMocnUvHhRoH+ca3c6GQoDCNFZR5CNxY91wAZcc2zJQKBgQDgPhIicqyvahfq5QYy\nfaGYZKLHXOss2nuxIJDzBbH9Z+RRsVvFAvkuy0O08BP8jh3ieHPvS7CdFQgsQFii\nZD++J2okQkWM3GB/T/7wwirQuaobFO1iJJbO+rEGcQK2s4idpf7oX7ainq2oGrzL\njN8bvScGcHLK4p/9XH/yBTC1hQKBgQC1UmlelyaB11I9pK3jd95OOeNTEVZ+Y0LI\n1TdUmVs6+QyjgXI3Q8+lo1+CBvDMroUXvkwVXxdtpZi4tjSdZQKqhz60+cdCS+BB\npEK9QfEDbNaJxMv3gF1WV2zaR4II0snVYAr1/KCssG03G4poRnwNZEz9v34hC8cg\nUWT5FVaj9QKBgQC9n1+AZ85lK2b8SBz8d0Y98uO/iHCKZlrwhqRsDSXdLoxhFISQ\nzZnfmx0vFVEhYSAeUVNgSHYZ7x4RJXyOHg3VA8l6zdu4aObk4cWo29iO1mHlMsYm\nFuC8ODuYQdpUmu7suOEcqUtsqpgYrjt2OTK1Zzdn95Dqxcca3ayIASGWbQKBgQCF\nfP6F3NFElbi+GRbLd9v5yzRIW2NJ+NmZ8R6i8aPwbpmXZh0oAoxEbVpK58Evbuwc\n5sQsl60v09HzanChz1N/J8JKifjgHewjZ0KbAojk9KOdGXzv4VjVz9cbe7mHtWdR\n5zsqjanceKZvA5+J1RpO4aCszuWUfo9Cg6nKlqMKYQKBgQDChy1tIY/OMFVMcqOX\n558uL1GvPPm2QvcyzfI6XDz6ZljeWGFc7GoCqY3QgurX17lCSY6vu7i7SgS2GxLf\nb5GPQFhVFidsA/+cW8ubtdNn5I16x3GoIXRvWb11a+TKzFvcgdJSJYrOmUbi7gHx\nLeGxaNegVK/fI7miGKdFu/0lrw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "week1-coffeshop-demo@coffee-shop-exercise1-kowi.iam.gserviceaccount.com",
+  "client_id": "113532763206420621427",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/week1-coffeshop-demo%40coffee-shop-exercise1-kowi.iam.gserviceaccount.com"
+}

@@ -11,7 +11,7 @@ export function newUUID() {
     return uuidv4();
 }
 //const projectId = 'coffee-shop-exercise1-kowi';
-export async function runSample(uuid, message="", projectId = 'coffee-shop-exercise1-kowi') {
+export async function runSample(uuid, message="", projectId = "bankaccountbot-whot") {
     // A unique identifier for the given session
     //const sessionId = uuidv4();
     const sessionId = uuid;

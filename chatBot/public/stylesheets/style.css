@@ -3,10 +3,16 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+h1 {
+  width: 60%;
+}
+
 a {
   color: #00B7FF;
 }
 hr {
+  width: 60%;
+  margin-left: 0;
 }
 .container {
   display: flex;
@@ -14,6 +20,7 @@ hr {
   flex-grow: 1;
   border-radius: 1em;
   background-color: lightgray;
+  width: 60%;
 }
 .reset {
   margin-top: 3em;
@@ -23,12 +30,13 @@ hr {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
+  width: 60%;
 
 }
 .chatbox-answer {
   display: flex;
   flex-direction: row;
-  width: 50%;
+  width: 60%;
 }
 .chat {
   border-radius: 1em;
